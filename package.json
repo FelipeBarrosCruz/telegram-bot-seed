@@ -1,0 +1,21 @@
+{
+  "name": "bia-bot-miguel-targa",
+  "version": "1.0.0",
+  "description": "Bia Bot Miguel Targa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "bia",
+    "targa",
+    "miguel"
+  ],
+  "author": "MiguelTarga <miguel@games.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "glob": "^7.0.3"
+  }
+}
